@@ -18,7 +18,9 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 ### [John Lemon](writer/john-lemon.md) | zestmaster@flavor.magazine
 
 [Homemade Sausages](recipe/jan/homemade-sausages.md)
+[Sourdough and Banana Pancakes](/recipe/feb/sourdough-and-banana-pancakes.md)
 
 ### [Madame Croque](writer/madame-croque.md) | mmecroque@flavor.magazine
 
 [Chocolate Soup](recipe/jan/chocolate-soup.md)
+[Blue Cornmeal Pancakes](/recipe/feb/blue-cornmeal-pancakes.md)
