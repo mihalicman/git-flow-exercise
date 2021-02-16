@@ -5,3 +5,4 @@
 Recipe Picks:
 
 - January: [Homemade Sausages](../recipe/jan/homemade-sausages.md)
+- February: [Sourdough and Banana Pancakes](../recipe/feb/sourdough-and-banana-pancakes.md)
