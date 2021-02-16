@@ -5,3 +5,4 @@
 Recipe Picks:
 
 - January: [Chocolate Soup](../recipe/jan/chocolate-soup.md)
+- February: [Blue Cornmeal Pancakes](../recipe/feb/blue-cornmeal-pancakes.md)
