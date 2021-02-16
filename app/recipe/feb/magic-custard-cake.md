@@ -24,4 +24,4 @@ Source: https://sortedfood.com/recipe/1293
 5. Fold in the egg whites (in two batches), until evenly combined.
 6. Preheat an oven to 160°C. Pour the batter into the baking tin and cook for 50-60 minutes until the top is golden and puffed and the middle is set but with a generous wobble.
 7. Allow to cool completely (at least 3-4 hours) before slicing into the cake
-8. Serve the slices of cake drizzled with the passionfruit pulp and finished with a sprig of mint!
+8. Serve the slices of cake drizzled with the passionfruit pulp and finished with a sprig of mint!!
